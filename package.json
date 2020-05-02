@@ -1,0 +1,18 @@
+{
+  "name": "twitch-logs-download",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^9.0.0",
+    "nano-memoize": "^1.1.10",
+    "p-map": "^4.0.0",
+    "superagent": "^5.2.2"
+  }
+}
